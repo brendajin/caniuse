@@ -5,10 +5,6 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/selectors_api/querySelector",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://cjihrig.com/blog/javascripts-selectors-api/",
       "title":"Blog post"
     },
@@ -19,6 +15,10 @@
     {
       "url":"https://developer.mozilla.org/En/DOM/Element.querySelectorAll",
       "title":"MDN article on querySelectorAll"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/selectors_api/querySelector",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -92,7 +92,8 @@
       "27":"y",
       "28":"y",
       "29":"y",
-      "30":"y"
+      "30":"y",
+      "31":"y"
     },
     "safari":{
       "3.1":"y",
@@ -116,7 +117,8 @@
       "12":"y",
       "12.1":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y"
     },
     "ios_saf":{
       "3.2":"y",

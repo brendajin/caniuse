@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://github.com/PM5544/scoped-polyfill",
-      "title":"Polyfill"
-    },
-    {
       "url":"http://html5doctor.com/the-scoped-attribute/",
       "title":"HTML5 Doctor article"
+    },
+    {
+      "url":"https://github.com/PM5544/scoped-polyfill",
+      "title":"Polyfill"
     },
     {
       "url":"http://updates.html5rocks.com/2012/03/A-New-Experimental-Feature-style-scoped",
@@ -21,8 +21,8 @@
     
   ],
   "categories":[
-    "CSS",
-    "HTML5"
+    "HTML5",
+    "CSS"
   ],
   "stats":{
     "ie":{
@@ -88,8 +88,9 @@
       "26":"n",
       "27":"n",
       "28":"n",
-      "29":"u",
-      "30":"u"
+      "29":"n",
+      "30":"u",
+      "31":"u"
     },
     "safari":{
       "3.1":"n",
@@ -113,7 +114,8 @@
       "12":"n",
       "12.1":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n"
     },
     "ios_saf":{
       "3.2":"n",

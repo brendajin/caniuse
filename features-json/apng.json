@@ -13,12 +13,12 @@
       "title":"Wikipedia"
     },
     {
-      "url":"https://chrome.google.com/webstore/detail/ehkepjiconegkhpodgoaeamnpckdbblp",
-      "title":"Chrome extension providing support"
-    },
-    {
       "url":"http://www.truekolor.net/learn-how-to-create-an-animated-png/",
       "title":"APNG tutorial"
+    },
+    {
+      "url":"https://chrome.google.com/webstore/detail/ehkepjiconegkhpodgoaeamnpckdbblp",
+      "title":"Chrome extension providing support"
     }
   ],
   "bugs":[
@@ -92,7 +92,8 @@
       "27":"n",
       "28":"n",
       "29":"n",
-      "30":"n"
+      "30":"n",
+      "31":"n"
     },
     "safari":{
       "3.1":"n",
@@ -116,7 +117,8 @@
       "12":"y",
       "12.1":"y",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n"
     },
     "ios_saf":{
       "3.2":"n",

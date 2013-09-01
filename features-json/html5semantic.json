@@ -5,8 +5,8 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://blog.whatwg.org/styling-ie-noscript",
-      "title":"Alternate workaround"
+      "url":"http://oli.jp/2009/html5-structure3/",
+      "title":"Article on structural elements"
     },
     {
       "url":"http://blog.whatwg.org/supporting-new-elements-in-ie",
@@ -17,8 +17,8 @@
       "title":"has.js test"
     },
     {
-      "url":"http://oli.jp/2009/html5-structure3/",
-      "title":"Article on structural elements"
+      "url":"http://blog.whatwg.org/styling-ie-noscript",
+      "title":"Alternate workaround"
     }
   ],
   "bugs":[
@@ -92,7 +92,8 @@
       "27":"y",
       "28":"y",
       "29":"y",
-      "30":"y"
+      "30":"y",
+      "31":"y"
     },
     "safari":{
       "3.1":"a",
@@ -116,7 +117,8 @@
       "12":"y",
       "12.1":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y"
     },
     "ios_saf":{
       "3.2":"a",

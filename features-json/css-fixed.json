@@ -9,12 +9,12 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://www.css-101.org/fixed-positioning/05.php",
-      "title":"Workaround for IE6"
-    },
-    {
       "url":"http://bradfrostweb.com/blog/mobile/fixed-position/",
       "title":"Article on mobile support"
+    },
+    {
+      "url":"http://www.css-101.org/fixed-positioning/05.php",
+      "title":"Workaround for IE6"
     }
   ],
   "bugs":[
@@ -96,7 +96,8 @@
       "27":"y",
       "28":"y",
       "29":"y",
-      "30":"y"
+      "30":"y",
+      "31":"y"
     },
     "safari":{
       "3.1":"y",
@@ -120,7 +121,8 @@
       "12":"y",
       "12.1":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y"
     },
     "ios_saf":{
       "3.2":"n",

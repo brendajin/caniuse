@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://www.yourhtmlsource.com/stylesheets/advancedselectors.html",
-      "title":"Examples of advanced selectors"
-    },
-    {
       "url":"http://www.quirksmode.org/css/contents.html",
       "title":"Detailed support information"
+    },
+    {
+      "url":"http://www.yourhtmlsource.com/stylesheets/advancedselectors.html",
+      "title":"Examples of advanced selectors"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/selectors",
@@ -97,7 +97,8 @@
       "27":"y",
       "28":"y",
       "29":"y",
-      "30":"y"
+      "30":"y",
+      "31":"y"
     },
     "safari":{
       "3.1":"y",
@@ -121,7 +122,8 @@
       "12":"y",
       "12.1":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y"
     },
     "ios_saf":{
       "3.2":"y",

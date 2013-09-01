@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/number",
-      "title":"WebPlatform Docs"
-    },
-    {
-      "url":"https://github.com/jonstipe/number-polyfill",
-      "title":"Polyfill"
+      "url":"http://www.html5tutorial.info/html5-number.php",
+      "title":"Tutorial"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-number",
       "title":"has.js test"
     },
     {
-      "url":"http://www.html5tutorial.info/html5-number.php",
-      "title":"Tutorial"
+      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/number",
+      "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://github.com/jonstipe/number-polyfill",
+      "title":"Polyfill"
     }
   ],
   "bugs":[
@@ -92,7 +92,8 @@
       "27":"y",
       "28":"y",
       "29":"y",
-      "30":"y"
+      "30":"y",
+      "31":"y"
     },
     "safari":{
       "3.1":"n",
@@ -116,7 +117,8 @@
       "12":"y",
       "12.1":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y"
     },
     "ios_saf":{
       "3.2":"a",

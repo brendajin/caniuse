@@ -9,12 +9,12 @@
       "title":"Information on the spec development"
     },
     {
-      "url":"http://www.quirksmode.org/mobile/tableTouch.html",
-      "title":"Detailed support tables"
-    },
-    {
       "url":"http://www.quirksmode.org/m/tests/drag2.html",
       "title":"Multi-touch demo"
+    },
+    {
+      "url":"http://www.quirksmode.org/mobile/tableTouch.html",
+      "title":"Detailed support tables"
     }
   ],
   "bugs":[
@@ -26,8 +26,8 @@
     }
   ],
   "categories":[
-    "DOM",
-    "JS API"
+    "JS API",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -94,7 +94,8 @@
       "27":"y",
       "28":"y",
       "29":"y",
-      "30":"y"
+      "30":"y",
+      "31":"y"
     },
     "safari":{
       "3.1":"n",
@@ -118,7 +119,8 @@
       "12":"n",
       "12.1":"n",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y"
     },
     "ios_saf":{
       "3.2":"y",

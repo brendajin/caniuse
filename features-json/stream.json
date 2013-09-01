@@ -17,8 +17,8 @@
     
   ],
   "categories":[
-    "JS API",
-    "HTML5"
+    "HTML5",
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -85,7 +85,8 @@
       "27":"y x",
       "28":"y x",
       "29":"y x",
-      "30":"y x"
+      "30":"y x",
+      "31":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -109,7 +110,8 @@
       "12":"y",
       "12.1":"y",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -145,14 +147,14 @@
       "14":"n"
     },
     "and_chr":{
-      "0":"n"
+      "0":"y"
     },
     "and_ff":{
       "0":"n"
     }
   },
   "notes":"Supported on Chrome for Android by enabling the \"Enable WebRTC\" flag under chrome://flags",
-  "usage_perc_y":48.64,
+  "usage_perc_y":49.63,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -5,20 +5,20 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.zachleat.com/web/placeholder/",
-      "title":"Article on usage"
-    },
-    {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-attr-placeholder",
-      "title":"has.js test"
-    },
-    {
       "url":"https://github.com/mathiasbynens/jquery-placeholder",
       "title":"Polyfill"
     },
     {
       "url":"http://docs.webplatform.org/wiki/html/attributes/placeholder",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://www.zachleat.com/web/placeholder/",
+      "title":"Article on usage"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-attr-placeholder",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -92,7 +92,8 @@
       "27":"y",
       "28":"y",
       "29":"y",
-      "30":"y"
+      "30":"y",
+      "31":"y"
     },
     "safari":{
       "3.1":"a",
@@ -116,7 +117,8 @@
       "12":"y",
       "12.1":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y"
     },
     "ios_saf":{
       "3.2":"y",

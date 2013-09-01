@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/dom/methods/requestFullscreen",
-      "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://hacks.mozilla.org/2012/01/using-the-fullscreen-api-in-web-browsers/",
-      "title":"Mozilla hacks article"
-    },
-    {
       "url":"http://jlongster.com/2011/11/21/canvas.html",
       "title":"Blog post"
     },
     {
       "url":"https://developer.mozilla.org/en/DOM/Using_full-screen_mode",
       "title":"MDN article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/dom/methods/requestFullscreen",
+      "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://hacks.mozilla.org/2012/01/using-the-fullscreen-api-in-web-browsers/",
+      "title":"Mozilla hacks article"
     }
   ],
   "bugs":[
@@ -92,7 +92,8 @@
       "27":"y x",
       "28":"y x",
       "29":"y x",
-      "30":"y x"
+      "30":"y x",
+      "31":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -116,7 +117,8 @@
       "12":"n",
       "12.1":"y",
       "15":"y x",
-      "16":"y x"
+      "16":"y x",
+      "17":"y x"
     },
     "ios_saf":{
       "3.2":"n",
@@ -152,14 +154,14 @@
       "14":"y x"
     },
     "and_chr":{
-      "0":"n"
+      "0":"y x"
     },
     "and_ff":{
       "0":"a x"
     }
   },
   "notes":"Partial support refers to supporting an earlier draft of the spec.",
-  "usage_perc_y":36.48,
+  "usage_perc_y":37.47,
   "usage_perc_a":17.49,
   "ucprefix":false,
   "parent":"",

@@ -5,8 +5,8 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-transform",
-      "title":"has.js test"
+      "url":"http://css3.bradshawenterprises.com/flip/",
+      "title":"Multi-browser demo"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/transforms/transform",
@@ -21,8 +21,8 @@
       "title":"3D CSS Tester"
     },
     {
-      "url":"http://css3.bradshawenterprises.com/flip/",
-      "title":"Multi-browser demo"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-transform",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -96,7 +96,8 @@
       "27":"y x",
       "28":"y x",
       "29":"y x",
-      "30":"y x"
+      "30":"y x",
+      "31":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -120,7 +121,8 @@
       "12":"n",
       "12.1":"n",
       "15":"y x",
-      "16":"y x"
+      "16":"y x",
+      "17":"y x"
     },
     "ios_saf":{
       "3.2":"y x",

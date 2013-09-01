@@ -13,12 +13,12 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://html5demos.com/contenteditable",
-      "title":"Demo page"
-    },
-    {
       "url":"http://accessgarage.wordpress.com/2009/05/08/how-to-hack-your-app-to-make-contenteditable-work/",
       "title":"Blog post on usage problems"
+    },
+    {
+      "url":"http://html5demos.com/contenteditable",
+      "title":"Demo page"
     }
   ],
   "bugs":[
@@ -97,7 +97,8 @@
       "27":"y",
       "28":"y",
       "29":"y",
-      "30":"y"
+      "30":"y",
+      "31":"y"
     },
     "safari":{
       "3.1":"y",
@@ -121,7 +122,8 @@
       "12":"y",
       "12.1":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y"
     },
     "ios_saf":{
       "3.2":"n",

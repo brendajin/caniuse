@@ -13,20 +13,20 @@
       "title":"matchMedia.js polyfill"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/media_queries/apis/matchMedia",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://developer.mozilla.org/en/DOM/window.matchMedia",
       "title":"MDN article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/media_queries/apis/matchMedia",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "JS API",
-    "DOM"
+    "DOM",
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -93,7 +93,8 @@
       "27":"y",
       "28":"y",
       "29":"y",
-      "30":"y"
+      "30":"y",
+      "31":"y"
     },
     "safari":{
       "3.1":"n",
@@ -117,7 +118,8 @@
       "12":"n",
       "12.1":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y"
     },
     "ios_saf":{
       "3.2":"n",

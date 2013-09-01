@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
+      "url":"http://www.css3files.com/gradient/",
+      "title":"Information page"
+    },
+    {
       "url":"http://www.colorzilla.com/gradient-editor/",
       "title":"Cross-browser editor"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/functions/linear-gradient",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://www.css3files.com/gradient/",
-      "title":"Information page"
     },
     {
       "url":"http://css3pie.com/",
@@ -92,7 +92,8 @@
       "27":"y",
       "28":"y",
       "29":"y",
-      "30":"y"
+      "30":"y",
+      "31":"y"
     },
     "safari":{
       "3.1":"n",
@@ -116,7 +117,8 @@
       "12":"y x",
       "12.1":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y"
     },
     "ios_saf":{
       "3.2":"a x",
@@ -152,7 +154,7 @@
       "14":"y"
     },
     "and_chr":{
-      "0":"y x"
+      "0":"y"
     },
     "and_ff":{
       "0":"y"
